@@ -34,6 +34,8 @@ The Tableau workbook includes several key visualizations:
 - **Death Rates Over Time**: A time series analysis of COVID-19 deaths across different regions.
 - **Vaccination Coverage by Region**: A geographical representation of vaccination rates.
 - **Deaths vs. Vaccination Rates**: A comparative analysis to observe any correlation between death rates and vaccination coverage.
+  ![covid analysis tableau](https://github.com/user-attachments/assets/3192d4b3-18d6-4480-b319-09ab23535db0)
+
 
 ## Tools Used
 
